@@ -1,3 +1,6 @@
 Git is really useful
 But a bit complicated
 It's OK
+
+Writing explicit commit messages is really important.
+
